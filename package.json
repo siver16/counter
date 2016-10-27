@@ -1,0 +1,8 @@
+{
+  "name": "counter",
+  "version": "0.0.1",
+  "description": "Test task",
+  "dependencies": {
+    "mysql": "^2.11.1"
+  }
+}
